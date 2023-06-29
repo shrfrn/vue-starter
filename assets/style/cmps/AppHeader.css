@@ -1,0 +1,12 @@
+.app-header {
+    display: flex;
+    align-items: center;
+    height: 6vh;
+    padding-inline: 0.5em;
+    background-color: var(--clr12);
+    color: var(--gray2);
+}
+
+.app-header nav .active {
+    color: var(--gray1);
+}
